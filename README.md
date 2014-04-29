@@ -1,4 +1,1 @@
-my-fish-config
-==============
-
-My Fish Config files
+## My Fish Config files
