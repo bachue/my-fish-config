@@ -1,0 +1,2 @@
+set -e fish_greeting
+set fish_plugins autojump bundler rbenv sublime brew
